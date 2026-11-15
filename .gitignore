@@ -1,0 +1,21 @@
+# Environment files
+.env
+.env.*
+
+# Dependencies
+node_modules/
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
